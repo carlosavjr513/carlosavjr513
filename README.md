@@ -5,8 +5,8 @@
 ##
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=carlosavjr513&count_private=true&show_icons=true&theme=transparent&include_all_commits=true&hide_border=true" />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosavjr513&layout=donut&hide=TeX&theme=transparent&hide_border=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=carlosavjr513&count_private=true&show_icons=true&theme=transparent&include_all_commits=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosavjr513&layout=donut&hide=TeX&theme=transparent" />
 </a>
 
 ##
