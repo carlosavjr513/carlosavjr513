@@ -42,8 +42,8 @@
 
 ## 
 
-[github-README-stats](https://github.com/anuraghazra/github-readme-stats)
-[Markdown Badges](https://github.com/Ileriayo/markdown-badges)
+
+[github-readme-stats](https://github.com/anuraghazra/github-readme-stats) | [Markdown Badges](https://github.com/Ileriayo/markdown-badges)
 
 <!--
 **carlosavjr513/carlosavjr513** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
