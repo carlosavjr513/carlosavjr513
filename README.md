@@ -7,7 +7,7 @@
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=carlosavjr513&count_private=true&show_icons=true&theme=transparent&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosavjr513&layout=donut&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosavjr513&layout=donut&hide=TeX&theme=transparent)
 
 
 ##
