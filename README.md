@@ -38,6 +38,13 @@
 ### Tools
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 
+
+
+## 
+
+![github-README-stats](https://github.com/anuraghazra/github-readme-stats)
+![Markdown Badges](https://github.com/Ileriayo/markdown-badges)
+
 <!--
 **carlosavjr513/carlosavjr513** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
