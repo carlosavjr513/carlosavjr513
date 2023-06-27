@@ -1,6 +1,6 @@
 # Hello there 👋
 
-- And welcome to my GitHub profile, I'm a mid-level fullstack devloper with focus on front-end.
+- And welcome to my GitHub profile, I'm a mid-level fullstack developer with focus on front-end.
 
 ##
 
