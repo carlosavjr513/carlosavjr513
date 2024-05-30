@@ -4,8 +4,10 @@
 
 ##
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=carlosavjr513&count_private=true&theme=transparent&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosavjr513&layout=donut&theme=transparent)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=carlosavjr513&count_private=true&theme=transparent&include_all_commits=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosavjr513&layout=donut&theme=transparent" />
+</a>
 
 ##
 
