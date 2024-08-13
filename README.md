@@ -5,7 +5,7 @@
 ##
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=carlosavjr513&count_private=true&rank_icon=github&include_all_commits=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=carlosavjr513&count_private=true&include_all_commits=true&theme=transparent" />
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosavjr513&layout=donut&theme=transparent" />
 </a>
 
