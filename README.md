@@ -4,8 +4,8 @@
 
 ##
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=carlosavjr513&count_private=true&show_icons=true&include_all_commits=true&theme=transparent&rank_icon=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosavjr513&hide=TeX&layout=compact&theme=transparent)
+![Github Stats](https://stats.carlosavjr513.com/api?username=carlosavjr513&count_private=true&show_icons=true&include_all_commits=true&theme=transparent&rank_icon=github)
+![Top Langs](https://stats.carlosavjr513.com/api/top-langs/?username=carlosavjr513&hide=TeX&layout=compact&theme=transparent)
 
 ##
 
