@@ -4,11 +4,6 @@
 
 ##
 
-![Github Stats](https://stats.carlosavjr513.com/api?username=carlosavjr513&count_private=true&show_icons=true&include_all_commits=true&theme=transparent&rank_icon=github)
-![Top Langs](https://stats.carlosavjr513.com/api/top-langs/?username=carlosavjr513&hide=TeX&layout=compact&theme=transparent)
-
-##
-
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
